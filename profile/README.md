@@ -1,6 +1,6 @@
 ![RisingTechOSS](https://github.com/RisingTechOSS/.github/raw/master/profile/risingOS_banner.png)
 
-the RisingOS Android Project
+The RisingOS Android Project
 =============================
 
 [![Download RisingOS](https://github.com/RisingTechOSS/.github/raw/master/profile/download.png)](https://www.pling.com/p/1619738/)
@@ -28,4 +28,4 @@ After visiting these repositories, familiarize yourself with our build system an
 Feel free to visit our Telegram group.
 
 - [Telegram Announcements Channel](https://t.me/riceDroidNews)
-- [Telegram Discussion Group](https://t.me/riceDroidsupport)
+- [Telegram Discussion Group](https://t.me/RisingOSG)
